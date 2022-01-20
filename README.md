@@ -1,1 +1,5 @@
 # heartDiseasePrediction
+
+According to the Center for Disease Control and Prevention, heart disease is a leading cause of death within the United States. Within heart diseases, heart attacks are one of the most common. In the United States, a person has a heart attack every forty seconds. The goal is to take preventative measures to avoid heart attacks. In order to take preventative measures, features that lead to the cause of heart attacks must be identified. 
+
+This project intends to explore various models that can sufficiently predict if a person is prone to heart attack or not. A set of features for categorical and continuous data will be used to identify a binary output of whether someone has a heart attack, where the classification of 0 denotes the normal state of no heart attack and 1 denotes the abnormal state of heart attack. The categorical datasets used in the models are number of major vessels, chest pain, fasting blood sugar, and thallium stress test results. The continuous variables are age, maximum heart rate, resting blood pressure, cholesterol level, and previous peak. 
